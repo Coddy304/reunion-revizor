@@ -9,7 +9,7 @@
 }
 
 html, body, header{
-	height: 100%;
+	height: 150%;
 }
 
 html{
@@ -97,7 +97,7 @@ html{
 }
 .h1{
 	font-size: 5rem;
-	letter-spacing: 2px;
+	letter-spacing: 6px;
 }
 .subtitle{
 	font-size: 1.6rem;
@@ -160,8 +160,8 @@ html{
 	width: 30%;
 }
 .h3{
-	font-size: 2rem;
-	margin: 2.5rem 0;
+	font-size: 3rem;
+	margin: 2.5rem;
 	letter-spacing: 0.7px;
 }
 .icon{
